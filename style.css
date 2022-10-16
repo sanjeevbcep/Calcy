@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: #ffffff;
+    background-color: #fff;
     min-height: 90vh;
     display: flex;
     justify-content: center;
@@ -12,7 +12,7 @@ body{
 
 .container{
     background-color: #32a852;
-    max-width: 300px;
+    max-width: 302px;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -34,7 +34,7 @@ body{
     border-bottom: 1px rgba(128,128,128,0.116) solid;
 }
 #Display-area .currentInput{
-    /*display:flex;*/
+    /* display:flex; */
     text-align: right;
     height: 8vh;
     color: white;
@@ -60,7 +60,7 @@ body{
     border: none;
     border-radius: 122px;
     background-color: #232534;
-    color: #fff;
+    color: #fffff;
     font-size: x-large;
 }
 .keypad-btns .fun_btn{
