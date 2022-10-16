@@ -12,7 +12,7 @@ body{
 
 .container{
     background-color: #32a852;
-    max-width: 300px;
+    max-width: 302px;
     height: auto;
     display: flex;
     flex-direction: column;
