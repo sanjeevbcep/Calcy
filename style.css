@@ -44,7 +44,7 @@ body{
 }
 #Display-area .answerScreen{
     text-align: right;
-    color: rgb(60, 179, 113);
+    color: rgb(0,0,0);
     height: 7px;
     line-height: 3;
     font-size: larger;
